@@ -180,27 +180,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-## 👤 Author
+**Iza Philip Joshua**
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/izajoshua.png" width="100px;" alt="Iza Philip Joshua"/><br />
-      <sub><b>Iza Philip Joshua</b></sub><br />
-      <a href="https://github.com/izajoshua">GitHub</a> •
-      <a href="https://www.linkedin.com/in/iza-philip-joshua-363841264">LinkedIn</a> •
-      <a href="mailto:izajoshua@gmail.com">Email</a>
-    </td>
-  </tr>
-</table>
+[![GitHub](https://img.shields.io/badge/GitHub-izajoshua-181717?style=for-the-badge&logo=github)](https://github.com/izajoshua)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iza_Philip_Joshua-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iza-philip-joshua-363841264)
+[![Email](https://img.shields.io/badge/Email-izajoshua@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izajoshua@gmail.com)
 
----
 ---
 
 ## 🙏 Acknowledgments
 
 - BMW for inspiring this analytics project
-- Power BI community for visualization best practices
 - Contributors and reviewers
 
 ---
