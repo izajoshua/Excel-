@@ -205,6 +205,6 @@ For questions or feedback, please open an issue or reach out via email.
 
 **⭐ Star this repository if you found it helpful!**
 
-Made with ❤️ and Power BI
+Made with ❤️ and Excel 
 
 </div>
