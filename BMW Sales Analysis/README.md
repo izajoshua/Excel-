@@ -180,12 +180,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
+## 👤 Author
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/izajoshua.png" width="100px;" alt="Iza Philip Joshua"/><br />
+      <sub><b>Iza Philip Joshua</b></sub><br />
+      <a href="https://github.com/izajoshua">GitHub</a> •
+      <a href="https://www.linkedin.com/in/iza-philip-joshua-363841264">LinkedIn</a> •
+      <a href="mailto:izajoshua@gmail.com">Email</a>
+    </td>
+  </tr>
+</table>
 
+---
 ---
 
 ## 🙏 Acknowledgments
